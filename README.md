@@ -4,11 +4,10 @@
 
 [Resume](https://yinzq.me/)
 
-Welcome to Zhengqiang's repo. Please feel free to submit issues with me.
+Welcome to my GitHub profile! Feel free to open an issue if you have any questions or suggestions.
 
-- I'm an engineer of AML (Applied Machine Learning) Team at ByteDance now.
-- I'm researching how to accelerate the training and inference of deep learning on the Volcano Engine machine learning platform, especially large language models and diffusion models.
+I'm a machine learning engineer on the Applied Machine Learning (AML) team at ByteDance. I work on large-scale LLM infrastructure and serving systems for ModelArk Platform ([CN](https://www.volcengine.com/product/ark) | [Global](https://www.byteplus.com/en/product/modelark)), focusing on distributed inference, system optimization, and performance at scale.
 
-We are hiring! Please feel free to send your resume to my email at any time.
+We're hiring! Feel free to reach out or send me your resume anytime.
 
 我们正在招聘中，请随时发送简历到我邮箱！！！
